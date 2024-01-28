@@ -34,7 +34,47 @@ nav a {
   color: blue;
 }
 
+/* main */
+main{
+  min-height: 81vh;
+  
+}
+.about-page div{
+  background-image: url("/code.jpg");
+  padding: 20px;
+  color: white;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.about-page img{
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+}
+.about-page p{
+  line-height: 2;
+  font-size: 19px;
+  margin-top: 20px;
+  padding: 0 20px;
+}
+.about-page h1{
+  width: 300px;
+  text-align: center;
+}
 
+/* Footer */
+footer{
+  background-color: grey;
+  padding: 20px;
+}
+footer p{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 800;
+}
+footer a{
+  margin-right: 15px;
+}
 
 
 

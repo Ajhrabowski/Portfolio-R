@@ -1,7 +1,10 @@
 export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
+    <div className="about-page">
+      <div>
+        <h1>About Me</h1>
+        <img src="/Coach-Tony.jpg" alt="my profile picture" />
+      </div>
       <p>
         My name is Anthony Hrabbowski. I am currently a student attending a MSU coding bootcamp. I have had many talents in my career. Once refered to myself as "One Man Many Talents".
         I am a Barber, Dj and a Personal Trainer. I once was a Recording Engineer and dabled in the field of Graphic design for a minute. The Grapic Design is what landed me here.
