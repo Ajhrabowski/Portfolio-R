@@ -102,6 +102,38 @@ main{
 .project a:last-child{
   margin-top: 5px;
 }
+
+.resume-page{
+  padding: 20px;
+}
+
+.contact-page{
+  padding: 20px;
+}
+
+form{
+  max-width: 500px;
+}
+input,textarea{
+  display: block;
+  width: 100%;
+  padding: 8px 20px;
+  margin: 8px 0;
+}
+
+label{
+  font-size: 20px;
+}
+
+form button{
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 30px;
+  cursor: pointer;
+}
+
+
 /* Footer */
 footer{
   background-color: grey;
