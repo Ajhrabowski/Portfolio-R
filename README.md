@@ -21,6 +21,10 @@ Read more about MIT here:
 
 This is a project assignment for my MSU Fullstack Web Development Bootcamp. My task was to create a portfolio using my new React skills, which will help me set myself apart from other developers whose portfolios don’t use the latest technologies.
 
+## Deployment
+
+https://bespoke-puppy-c82bd7.netlify.app/
+
 ![Alt text](public/Portfolio-Screenshot.png)
 
 ## Installation
