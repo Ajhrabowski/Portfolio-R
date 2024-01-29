@@ -10,6 +10,7 @@ const projects = [
   {
     name:"Album Review",
     img:"/Album-Review-Site.png",
+    live:"https://album-review-site-715f772b98d0.herokuapp.com",
     github:"https://github.com/JohnPaulZigterman/review-site"
   },
   {
