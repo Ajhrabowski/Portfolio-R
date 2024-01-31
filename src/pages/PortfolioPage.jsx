@@ -18,7 +18,25 @@ const projects = [
     img:"/Note-Taker-Screenshot.png",
     live:"https://ntdeployment-ed4c72c4a811.herokuapp.com",
     github:"https://github.com/Ajhrabowski/Tomador-De-Notas"
- }
+ },
+ {
+  name:"Weather Dasboardr",
+  img:"/Weather-Dasboard.jpg",
+  live:"https://ajhrabowski.github.io/atmospheric-panel/",
+  github:"https://github.com/Ajhrabowski/atmospheric-panel"
+},
+{
+  name:"Itinerate",
+  img:"/Screenshot (100).png",
+  live:"https://itinerate.onrender.com",
+  github:"https://github.com/JohnPaulZigterman/itinerary-site"
+},
+{
+  name:"Itinerate",
+  img:"/05-third-party-apis-homework-demo.gif",
+  live:"https://ajhrabowski.github.io/At-AGlance/",
+  github:"https://github.com/Ajhrabowski/At-AGlance"
+}
 ]
 function PortfolioPage() {
   return (

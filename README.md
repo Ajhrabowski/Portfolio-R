@@ -8,6 +8,7 @@
 
 - [License](#license)
 - [Description](#description)
+- [Deployment](#deployment)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contact Info](#contact-info)
