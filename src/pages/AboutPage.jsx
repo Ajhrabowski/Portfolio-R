@@ -11,7 +11,7 @@ export default function About() {
         </p>
         
         <p>
-          I started with Wix and didn't quite like it that much. Decided to try the UX Design route. I liked it a little, However wanted to get more indepth with design and building of the site more so than all the case studying and interviewing. So I decided to attended Henry Ford Community College
+          I started with Wix and didn't quite like it that much. Decided to try the UX Design route. I liked it a little, However wanted to get more in depth with design and building of the site more so than all the case studying and interviewing. So I decided to attended Henry Ford Community College
           to start my journey as a Web Developer.
         </p>
         <p>
