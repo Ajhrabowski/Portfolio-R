@@ -6,7 +6,7 @@ export default function About() {
         <img src="/Coach-Tony.jpg" alt="my profile picture" />
       </div>
       <p>
-        My name is Anthony Hrabbowski. I am currently a student attending a MSU coding bootcamp. I have had many talents in my career. Once refered to myself as "One Man Many Talents". I am a Barber, Dj and a Personal Trainer. I once was a Recording Engineer and dabled in the field of Graphic design for a minute. The Grapic Design is what landed me here.
+        My name is Anthony Hrabbowski. I am currently a student attending a MSU coding bootcamp. I have had many talents in my career. Once refered to myself as "One Man Many Talents". I am a Barber, Dj and a Personal Trainer. I once was a Recording Engineer and dabbled in the field of Graphic design for a minute. The Grapic Design is what landed me here.
         I became facinated with the Worldwide Web and how it looks. So I said to myself I want to design a website.
         </p>
         
