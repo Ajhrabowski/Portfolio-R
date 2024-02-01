@@ -20,7 +20,7 @@ const projects = [
     github:"https://github.com/Ajhrabowski/Tomador-De-Notas"
  },
  {
-  name:"Weather Dasboardr",
+  name:"Weather Dasboard",
   img:"/Weather-Dasboard.jpg",
   live:"https://ajhrabowski.github.io/atmospheric-panel/",
   github:"https://github.com/Ajhrabowski/atmospheric-panel"
@@ -32,7 +32,7 @@ const projects = [
   github:"https://github.com/JohnPaulZigterman/itinerary-site"
 },
 {
-  name:"Itinerate",
+  name:"At-AGlance",
   img:"/05-third-party-apis-homework-demo.gif",
   live:"https://ajhrabowski.github.io/At-AGlance/",
   github:"https://github.com/Ajhrabowski/At-AGlance"
